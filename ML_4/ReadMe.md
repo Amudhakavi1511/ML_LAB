@@ -1,4 +1,4 @@
-## 🎯 Aim & Objectives
+## Aim & Objectives
 To build and evaluate machine learning classifiers such as:
 - Decision Tree  
 - AdaBoost  
@@ -10,7 +10,7 @@ To build and evaluate machine learning classifiers such as:
 
 ---
 
-## 🛠️ Libraries Used
+##  Libraries Used
 - **Numpy**
 - **Pandas**
 - **Matplotlib**
@@ -21,7 +21,7 @@ To build and evaluate machine learning classifiers such as:
 
 ---
 
-## 📊 Dataset
+## Dataset
 - **Name:** Breast Cancer Wisconsin (Diagnostic) Dataset  
 - **Source:** UCI Machine Learning Repository  
 - **Target:** `Diagnosis` → Malignant (1) / Benign (0)  
@@ -32,7 +32,7 @@ To build and evaluate machine learning classifiers such as:
 
 ---
 
-## 🔎 Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 - Class Distribution Plot  
 - Histograms of features  
 - Correlation Heatmap  
