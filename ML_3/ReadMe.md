@@ -9,11 +9,11 @@ To classify emails as **Spam** or **Ham (Not Spam)** using supervised machine le
 ---
 
 ## Project Structure  
-ML_3
-|__ Classifier_models.pdf
-|__ KNNs.ipynb
-|__ NBs.ipynnb
-|__ SVMs.ipynb
+ML_3\\
+|__ Classifier_models.pdf\\
+|__ KNNs.ipynb\\
+|__ NBs.ipynnb\\
+|__ SVMs.ipynb\\
 
 ---
 
